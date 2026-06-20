@@ -1,1 +1,0 @@
-print("Tetris Game - version de départ")
